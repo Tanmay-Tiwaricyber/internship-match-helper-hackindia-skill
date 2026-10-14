@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Aarav Sharma",
+      "skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Meera Singh",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "id": "I001",
+      "title": "Python Developer Intern",
+      "company": "CodeNest",
+      "location": "Remote",
+      "required_skills": [
+        "Python",
+        "Git",
+        "APIs"
+      ]
+    },
+    {
+      "id": "I002",
+      "title": "Data Analyst Intern",
+      "company": "InsightWorks",
+      "location": "Hybrid",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "I003",
+      "title": "Frontend Developer Intern",
+      "company": "PixelForge",
+      "location": "Remote",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": "I004",
+      "title": "Backend Intern",
+      "company": "LaunchStack",
+      "location": "On-site",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Docker"
+      ]
+    }
+  ]
+}

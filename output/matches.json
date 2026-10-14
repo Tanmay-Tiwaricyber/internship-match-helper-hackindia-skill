@@ -1,0 +1,140 @@
+{
+  "project": "Internship Match Helper",
+  "mode": "mock",
+  "students": [
+    {
+      "student_id": "S001",
+      "student_name": "Aarav Sharma",
+      "skills": [
+        "data analysis",
+        "git",
+        "python",
+        "sql"
+      ],
+      "matches": [
+        {
+          "internship_id": "I002",
+          "title": "Data Analyst Intern",
+          "company": "InsightWorks",
+          "location": "Hybrid",
+          "match_score": 100,
+          "matched_skills": [
+            "data analysis",
+            "python",
+            "sql"
+          ],
+          "missing_skills": []
+        },
+        {
+          "internship_id": "I001",
+          "title": "Python Developer Intern",
+          "company": "CodeNest",
+          "location": "Remote",
+          "match_score": 67,
+          "matched_skills": [
+            "git",
+            "python"
+          ],
+          "missing_skills": [
+            "apis"
+          ]
+        },
+        {
+          "internship_id": "I004",
+          "title": "Backend Intern",
+          "company": "LaunchStack",
+          "location": "On-site",
+          "match_score": 50,
+          "matched_skills": [
+            "python",
+            "sql"
+          ],
+          "missing_skills": [
+            "docker",
+            "rest apis"
+          ]
+        },
+        {
+          "internship_id": "I003",
+          "title": "Frontend Developer Intern",
+          "company": "PixelForge",
+          "location": "Remote",
+          "match_score": 0,
+          "matched_skills": [],
+          "missing_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react"
+          ]
+        }
+      ]
+    },
+    {
+      "student_id": "S002",
+      "student_name": "Meera Singh",
+      "skills": [
+        "css",
+        "html",
+        "javascript",
+        "react"
+      ],
+      "matches": [
+        {
+          "internship_id": "I003",
+          "title": "Frontend Developer Intern",
+          "company": "PixelForge",
+          "location": "Remote",
+          "match_score": 100,
+          "matched_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react"
+          ],
+          "missing_skills": []
+        },
+        {
+          "internship_id": "I004",
+          "title": "Backend Intern",
+          "company": "LaunchStack",
+          "location": "On-site",
+          "match_score": 0,
+          "matched_skills": [],
+          "missing_skills": [
+            "docker",
+            "python",
+            "rest apis",
+            "sql"
+          ]
+        },
+        {
+          "internship_id": "I002",
+          "title": "Data Analyst Intern",
+          "company": "InsightWorks",
+          "location": "Hybrid",
+          "match_score": 0,
+          "matched_skills": [],
+          "missing_skills": [
+            "data analysis",
+            "python",
+            "sql"
+          ]
+        },
+        {
+          "internship_id": "I001",
+          "title": "Python Developer Intern",
+          "company": "CodeNest",
+          "location": "Remote",
+          "match_score": 0,
+          "matched_skills": [],
+          "missing_skills": [
+            "apis",
+            "git",
+            "python"
+          ]
+        }
+      ]
+    }
+  ]
+}
